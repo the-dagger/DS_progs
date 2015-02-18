@@ -10,11 +10,11 @@ cout<<"The sum of the digits is "<<sum(a);
 }
 int sum(int b)
 {
-    if(b!=0)
-   {temp=b%10;
-    sum1+=temp;
-    b=b/10;
-    sum(b);}
-    else
-    return sum1;
+if(b!=0)
+{temp=b%10;
+sum1+=temp;
+b=b/10;
+sum(b);}
+else
+return sum1;
 }
