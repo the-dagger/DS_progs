@@ -1,2 +1,2 @@
 # DS_progs
-data structures programs
+Data structures programs B.Tech ECE.
